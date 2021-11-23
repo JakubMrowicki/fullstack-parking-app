@@ -1,1 +1,1 @@
-# fullstack-invoice-app
+# Full Stack Invoice App
