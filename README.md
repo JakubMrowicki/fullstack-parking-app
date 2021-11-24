@@ -28,7 +28,11 @@ The goal of this project is to create an __easy to use__ parking system which al
 # 2: User Stories
 
 Below are some user stories which illustrate how this website is helpful.
+###Owner
+* 'I want to set the amount of parking spots and prices'
 
+###User
+* 'I want to book parking time without signing up'
 
 # 3: User Experience(UX)
 ## Strategy Plane
